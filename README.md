@@ -30,8 +30,33 @@ _Left to Right: Final 3D model, Exploded Final 3D model, Assembled open-source g
 
 _Left to Right: Final robot arm, Final robot arm (Folded)_
 
-<img width="543" height="450" alt="KICad circuit diagram" src="https://github.com/user-attachments/assets/bb6017e2-7ca9-421e-87e0-9ed9251f6420" />
+<img width="543" height="450" alt="circuitDiagram" src="https://github.com/user-attachments/assets/2283d8de-c883-46a8-a591-49dc535503ad" />
 <img width="293" height="450" alt="stripboard" src="https://github.com/user-attachments/assets/98547f24-a68e-4a67-b6eb-ed94f7d3c0a2" />
 
 _Left to Right: KICad circuit diagram, Strip-board circuit_
+
+# System Testing
+<img width="1113" height="450" alt="camOutput" src="https://github.com/user-attachments/assets/d5298e85-29d1-40e4-8396-281d0333c8f5" />
+
+_Depth and Colour output produced from Python script_
+
+Two user tests were conducted across 27 participants, both at a "minimum viable product" stage, and a final stage. These tests involved asking users to control the robot arm and carry out a list of tasks of varying difficulty. In addition to user tests, general accuracy tests were conducted, some of which are shown below.
+
+<img width="731" height="788" alt="accuracy tests" src="https://github.com/user-attachments/assets/81bb518c-cada-4714-b8b6-010f45ca1335" />
+
+_Elbow-joint accuracy tests_
+
+<img width="660" height="157" alt="image" src="https://github.com/user-attachments/assets/87cd870e-2c9f-44fb-b696-0ec798a5977c" />
+
+_Elbow-joint accuracy test results_
+
+<img width="725" height="791" alt="image" src="https://github.com/user-attachments/assets/f9283f38-50b7-4bc1-93a7-e412f7471841" />
+
+_Wrist accuracy tests_
+
+<img width="717" height="292" alt="image" src="https://github.com/user-attachments/assets/57909ef9-b92a-4260-a278-a9957ec87323" />
+
+_Basic object grip tests_
+
+
 
